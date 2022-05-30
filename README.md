@@ -4,6 +4,11 @@ First rails app, hello world
 ## Built with
 - Rails
 
+## Pre-requisite
+- Installed and setup postgresql
+- Installed ruby
+- Installed rails
+
 ## Getting Started
 Clone the repository using `git clone` then open terminal and enter `cd hellorails`
 
