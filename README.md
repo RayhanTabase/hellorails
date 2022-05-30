@@ -1,4 +1,4 @@
-# school_library
+# hellorails
 First rails app, hello world
 
 ## Built with
