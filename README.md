@@ -1,24 +1,34 @@
-# README
+# school_library
+First rails app, hello world
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Built with
+- Rails
 
-Things you may want to cover:
+## Getting Started
+Clone the repository using `git clone` then open terminal and enter `cd hellorails`
 
-* Ruby version
+Run `rails s` to start server at http://127.0.0.1:3000/
 
-* System dependencies
 
-* Configuration
+## Authors
 
-* Database creation
+👤 **Salim Abdulai**
 
-* Database initialization
+- GitHub: [@RayhanTabase](https://github.com/RayhanTabase)
+- Twitter: [@RayhanTabase](https://twitter.com/@RayhanTabase)
+- LinkedIn: [Salim-Abdulai](https://linkedin.com/in/salim-abdulai-5430065b)
+- Email: salimabdulai2@yahoo.com
 
-* How to run the test suite
+## 🤝 Contributing
 
-* Services (job queues, cache servers, search engines, etc.)
+Contributions, issues, and feature requests are welcome!
 
-* Deployment instructions
+Feel free to check the [issues page](../../issues/).
 
-* ...
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
